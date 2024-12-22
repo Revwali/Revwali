@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Revwali
-- 👀 I’m interested in ... learning coding
-- 🌱 I’m currently learning ...java and c
+- 👀 I’m interested in ... learning coding and building backend applications
+- 🌱 I’m currently learning ...java and web frameworks
 - 💞️ I’m looking to collaborate on ... learning
 - 📫 How to reach me ...
 
